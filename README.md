@@ -8,11 +8,11 @@
 
 ## 功能
 
-- 新增todo項目(輸入文字，按下Enter鍵)
-- 刪除todo項目(按下垃圾桶icon)
-- 拖拉todo改變順序(拖拉Drag Handle icon)
+- 新增todo項目 (輸入文字，按下Enter鍵)
+- 刪除todo項目 (按下 垃圾桶 icon)
+- 拖拉todo改變順序 (拖拉 Drag Handle icon)
 
-![拖拉GIF](https://media.giphy.com/media/euMbbqUMbRwGOb7JOB/giphy.gif)
+![](https://media.giphy.com/media/euMbbqUMbRwGOb7JOB/giphy.gif)
 
 ## 開啟專案
 
